@@ -1,0 +1,45 @@
+body{
+	background-image: url("pink_rice.png");
+	font-family: courier;
+	color: #22C9AB;
+	font-size: 20px;
+}
+
+h1{
+	color: #CD12DE;
+	font-size: 30px;
+	text-align: center;
+	font-family: courier;
+	text-decoration: underline;
+	margin-top: 20px;
+}
+
+
+h2{
+	font-size:40px;
+	text-align: center;
+	font-family: courier;
+	color: #850964;
+	border-style: double;
+}
+
+.circle{
+	/*width:1000px;
+	height:100px;*/
+	font-family: courier;
+	color: #22C9AB;
+	font-size: 20px;
+	line-height: 50px;
+	text-align: center;
+	margin-top: -15px;
+}
+
+.square{
+	font-family: courier;
+	color: #22C9AB;
+	font-size: 17px;
+	line-height: 50px;
+	text-align: center;
+	margin-top: -25px;
+
+}
