@@ -1,0 +1,16 @@
+img{
+	width: 20%;
+	height: 20%;
+}
+h1{
+	text-align: center;
+	color: #0B803E;
+	font-size: 80px;
+}
+body{
+	background-image: url("../images/beige.jpg")
+}
+.col-lg-4 {
+    margin-left:10px;
+    margin-right:10px;
+}
