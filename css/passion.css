@@ -10,3 +10,7 @@ h1{
 body{
 	background-image: url("../images/beige.jpg")
 }
+.col-lg-4 {
+    margin-left:10px;
+    margin-right:10px;
+}
