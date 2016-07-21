@@ -43,3 +43,14 @@ h2{
 	margin-top: -25px;
 
 }
+
+img{
+	position: relative;
+	left: 525px;
+}
+
+.class{
+	position: center;
+	left: 400px;
+}
+
